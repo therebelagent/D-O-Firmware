@@ -1,3 +1,10 @@
+//
+//  D-O SoundFxManager for DFPlayer Mini.
+//  Created by Diego J. Arévalo.
+//  D-O Builders group: https://www.facebook.com/groups/2468594199841880/
+//  2019 v 1.0.
+//
+
 #include "SoundFxManager.h"
 
 SoundFxManager::SoundFxManager() {}

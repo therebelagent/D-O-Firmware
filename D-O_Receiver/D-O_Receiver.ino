@@ -1,3 +1,12 @@
+//
+//  D-O Receiver firmware for Arduino Uno.
+//  Created by Michael Baddeley.
+//  Facebook group: https://www.facebook.com/groups/MrBaddeley/
+//  Modified by Diego J. Arévalo.
+//  D-O Builders group: https://www.facebook.com/groups/2468594199841880/
+//  2019 v 1.0.
+//
+
 #include <EasyTransfer.h>
 #include <Adafruit_PWMServoDriver.h>
 #include <Wire.h>
